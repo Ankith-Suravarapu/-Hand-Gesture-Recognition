@@ -1,6 +1,6 @@
 # HAND GESTURE RECOGNITION TO CONTROL PC
 
-## Introduction 🧐
+## Introduction 
 
 - Gestures are an important aspect of human interaction, both interpersonally and in the context of man-machine interfaces.
 
@@ -12,7 +12,7 @@
 
 - Gesture recognition is especially valuable in applications involving interaction human/robot for several reasons
 
-## Implemetation 🥵
+## Implemetation 
 
 There are basically 8 steps in achieving the goal
 
@@ -61,12 +61,7 @@ There are basically 8 steps in achieving the goal
 
     - At last we display the frame on window with brightness index, volume index, cursor points.
 
-## Result 😎
-<p align="center"><img src="assets/result.gif" alt="output" width="100%"/></a></p>
-
 
 ### Team Members 😄
 [Bhupathi Shwejan Raj](https://github.com/shwejanraj) | [Bolisetty Sujith](https://bolisettysujith.rocks) | [Janagama Vamshi Krishna](https://github.com/vamshijanagama) | [Suravarapu Ankith](https://github.com/Ankith-Suravarapu) | [Raja Pavan Karthik](https://github.com/RPKTHOR) |
 
-
-**<p align="center"># Happy Coding #</p>**
