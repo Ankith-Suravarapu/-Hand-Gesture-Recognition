@@ -62,6 +62,6 @@ There are basically 8 steps in achieving the goal
     - At last we display the frame on window with brightness index, volume index, cursor points.
 
 
-### Team Members 😄
+### Team Members
 [Bhupathi Shwejan Raj](https://github.com/shwejanraj) | [Bolisetty Sujith](https://bolisettysujith.rocks) | [Janagama Vamshi Krishna](https://github.com/vamshijanagama) | [Suravarapu Ankith](https://github.com/Ankith-Suravarapu) | [Raja Pavan Karthik](https://github.com/RPKTHOR) |
 
